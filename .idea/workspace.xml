@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27702937-0aa1-49f6-aade-0c329251ba79" name="Default Changelist" comment="Assignment 2">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/GroupTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sdGi75cNJL7ySXV857LK02ovIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27702937-0aa1-49f6-aade-0c329251ba79" name="Default Changelist" comment="" />
+      <created>1621195177320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621195177320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="72" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1621195982733">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="322" y="72" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.768@0.0.1366.768" timestamp="1621195982733" />
+    <state x="488" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1621196442646">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1621196442646" />
+    <state x="406" y="73" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1621201398516">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="406" y="73" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.768@0.0.1366.768" timestamp="1621201398516" />
+    <state x="392" y="0" width="729" height="712" key="CommitChangelistDialog2" timestamp="1621200285581">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="0" width="729" height="712" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1621200285581" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1621199801492">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1621199801492" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1621199801492">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1621199801492" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1621199801489">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1621199801489" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1621199801492">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1621199801492" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1621201559333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1621201559333" />
+  </component>
+</project>
